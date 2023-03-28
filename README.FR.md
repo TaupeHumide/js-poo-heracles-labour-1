@@ -35,7 +35,7 @@ Après que les deux aient été instanciés, affichez le nom et la vie 💙 (vou
 Pour cela, tapez simplement : `node index.js` dans votre terminal.
 
 ## COMBATTEZ !
-
+_______________________________________________________________________________________________________________________________
 Héraclès s’échauffe un peu, resserre ses muscles, écrase quelques rochers à mains nues. Il est prêt à se battre !
 
 Dans la classe Fighter, créez une méthode `fight()` qui vous permet d'attaquer l'ennemi. Pour déterminer qui vous attaquez, la méthode `fight()` prend en paramètre un objet de type _Fighter_ (on peut l'appeller `defender`) ! Dans le corps de la méthode, vous calculerez en premier les points de dommage de l'attaquant :
@@ -53,7 +53,7 @@ En résumé :
 En sachant que `(attacker's dommage - defender's dexterity)` ne peut pas être négatif.
 
 C'est parti, votre classe est prête, vous n'avez plus qu'à vous en servir !
-
+_______________________________________________________________________________________________________________________________
 ## 🗡️ Il n'en restera qu'un
 
 Héraclès entre dans la grotte, le Lion est là, ses yeux rouges pointés sur vous. Le combat est imminent :
